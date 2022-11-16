@@ -1,0 +1,4 @@
+When an Abnormal conditions arrived to handle those error we use exceptional handling.
+It is use to handle run time exception
+which is syntactically correct but it is not accepted by JVM
+  
